@@ -15,9 +15,8 @@ There are two method we can upload the data 1) from table wizard 2) from cmd pro
 Here I have used cmd prompt to upload the data, because the data set was huge it would take more than an hour if we would have imported data from "import table wizard"
 
 # Olympics Data Analysis has:
-Data Cleaning and Understanding
-Summer Olympics
-Summer Data Description
-Top Countries Participation
-Gender Participation
+- Data Cleaning and Understanding
+- Summer Data Description
+- Top Countries Participation
+- Gender Participation
 
