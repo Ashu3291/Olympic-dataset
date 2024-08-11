@@ -14,9 +14,8 @@ Named clean data "olympics_event" and write query using this table and "noc_regi
 There are two method we can upload the data 1) from table wizard 2) from cmd prompt
 Here I have used cmd prompt to upload the data, because the data set was huge it would take more than an hour if we would have imported data from "import table wizard"
 
-Olympics Data Analysis has:
+# Olympics Data Analysis has:
 Data Cleaning and Understanding
-My Observations
 Summer Olympics
 Summer Data Description
 Top Countries Participation
