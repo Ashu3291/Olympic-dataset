@@ -8,17 +8,17 @@ select * from noc_regions;
 
 
 
-1. How many olympics games have been held?
+	1. How many olympics games have been held?
 
-    select count(distinct games) as total_olympic_games
-    from athlete_events;
+   	 select count(distinct games) as total_olympic_games
+    	from athlete_events;
 
 
 	2. List down all Olympics games held so far. (Data issue at 1956-"Summer"-"Stockholm")
 
-    select distinct year,season,city
-    from athlete_events 
-    order by year;
+   	 select distinct year,season,city
+    	from athlete_events 
+   	 order by year;
 
 	3. Mention the total no of nations who participated in each olympics game?
 
